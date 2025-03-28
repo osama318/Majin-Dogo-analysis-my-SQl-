@@ -17,4 +17,4 @@ Aggregations and window functions (e.g., RANK, ROW_NUMBER) for prioritization an
 Time-based analysis of queue durations by day and hour.
 Temporary tables and views for reusable, modular analysis.
 Practical recommendations for water source upgrades based on contamination and usage data.
-Dive into the code to explore how SQL can drive data-driven solutions for water access challenges!
+Dive into the code to explore how SQL can drive data-driven solutions for water access challenges
